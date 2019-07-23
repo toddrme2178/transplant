@@ -1,0 +1,6 @@
+include LICENSE
+include README.rst
+include transplant_magic.py
+
+include readthedocs.yml
+graft docs
